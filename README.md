@@ -36,9 +36,7 @@ Budi berkata:
 var x = 2*2;
 console.log(x);
 ```
-List Tempat Makan Enak di Serpong
-
-## Tabel
+## List Tempat Makan Enak di Serpong
 
 Nama Restoran | Jenis | Harga
 -----|-----|-----|
