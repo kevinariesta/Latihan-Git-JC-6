@@ -2,7 +2,7 @@
 
 *Italiano*
 
-_Cappucino_
+_Cappuccino_
 
 **Hot n' Spicy**
 
