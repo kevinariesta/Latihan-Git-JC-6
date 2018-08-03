@@ -1,27 +1,26 @@
-# Ini Header 1
+# README SAYA
 
-*Ini italic 1*
+*Italiano*
 
-_Ini italic 2_
+_Cappucino_
 
-**Ini bold 1**
+**Hot n' Spicy**
 
-__Ini bold 2__
+__Pedas Mampus__
 
-_Ini **kombinasi** gaes_
+_Aku **suka** Kucing_
 
-*Kenapa kucing harus merdeka : *
-- karena dia kucing
-- karena dia kucing
-- karena dia kucing
+*Kenapa cewe selalu benar: *
+- karena cowo selalu salah
+- kepentingan dia diatas semua
 - Alasan lain:
-    - karena dia kucing
+    - mungkin dia lelah
 
-1. karena dia kucing
-1. karena dia kucing
-1. karena dia kucing
-1. Alasan lain:
-    1. tidak ada alasan lain
+1. Andi
+1. Budi
+1. Charlie
+1. Hobinya Doni:
+    1. Makan & Tidur
 
 [Ini link Google](https://www.google.com/)
 
